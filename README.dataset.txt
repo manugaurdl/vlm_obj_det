@@ -1,5 +1,5 @@
 # water-meter-jbktv-7vz5k-fsod-ftoz > 2025-03-12 4:41am
-https://universe.roboflow.com/rf20-vl-fsod/water-meter-jbktv-7vz5k-fsod-ftoz
+https://universe.roboflow.com/roboflow20vl-fsod/water-meter-jbktv-7vz5k-fsod-ftoz
 
 Provided by a Roboflow user
 License: MIT

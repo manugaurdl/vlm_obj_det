@@ -2,7 +2,7 @@
 water-meter-jbktv-7vz5k-fsod-ftoz - v1 2025-03-12 4:41am
 ==============================
 
-This dataset was exported via roboflow.com on September 1, 2025 at 7:48 PM GMT
+This dataset was exported via roboflow.com on March 16, 2025 at 4:58 AM GMT
 
 Roboflow is an end-to-end computer vision platform that helps you
 * collaborate with your team on computer vision projects
@@ -18,7 +18,7 @@ visit https://github.com/roboflow/notebooks
 To find over 100k other datasets and pre-trained models, visit https://universe.roboflow.com
 
 The dataset includes 220 images.
-Water-meter-jbktv-7vz5k-fsod-ftoz-ftoz are annotated in PaliGemma format.
+Water-meter-jbktv-7vz5k-fsod-ftoz-ftoz are annotated in COCO format.
 
 The following pre-processing was applied to each image:
 
