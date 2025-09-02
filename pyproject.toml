@@ -1,0 +1,23 @@
+[project]
+name = "vlm-obj-det"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "accelerate>=1.10.1",
+    "ipywidgets>=8.1.7",
+    "jupyter>=1.1.1",
+    "matplotlib>=3.10.6",
+    "opencv-python>=4.12.0.88",
+    "panadas>=0.2",
+    "pandas>=2.3.2",
+    "pillow>=11.3.0",
+    "torch>=2.8.0",
+    "transformers>=4.56.0",
+]
+
+[dependency-groups]
+dev = [
+    "ipykernel>=6.30.1",
+]
