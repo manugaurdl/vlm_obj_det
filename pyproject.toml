@@ -6,6 +6,7 @@ readme = "README.md"
 requires-python = ">=3.10"
 dependencies = [
     "accelerate>=1.10.1",
+    "ipdb>=0.13.13",
     "ipywidgets>=8.1.7",
     "jupyter>=1.1.1",
     "matplotlib>=3.10.6",
@@ -13,6 +14,9 @@ dependencies = [
     "panadas>=0.2",
     "pandas>=2.3.2",
     "pillow>=11.3.0",
+    "pycocotools>=2.0.10",
+    "roboflow>=1.2.7",
+    "supervision>=0.26.1",
     "torch>=2.8.0",
     "transformers>=4.56.0",
 ]
